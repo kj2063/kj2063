@@ -27,8 +27,9 @@
     <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macOS&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
-<div style="padding-top:70px;">
-    <h3>🔭 <a href="https://kj2063.github.io/about/" style="text-decoration: underline; color:inherit">About me</a></h3>
+<br><br><br>
+<div>
+    <h3>🔭 <a href="https://kj2063.github.io/about/">About Me</a></h3>
 </div>
 <!--
 **kj2063/kj2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
