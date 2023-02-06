@@ -5,7 +5,6 @@
 
 <div align="center">
     <h3>📚 Tech Stack 📚</h3>
-    <br>
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -28,7 +27,9 @@
     <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macOS&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
-
+<div style="padding-top:70px;">
+    <h3>🔭 <a href="https://kj2063.github.io/about/" style="text-decoration: underline; color:inherit">About me</a></h3>
+</div>
 <!--
 **kj2063/kj2063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
