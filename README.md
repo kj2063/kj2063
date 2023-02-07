@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkj2063%2Fhit-counter&count_bg=%23149494&title_bg=%23555555&icon=apachespark.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:969696,100:149494&height=150&section=header&text=Jun%20Kwon&fontSize=50)
 
 
