@@ -25,8 +25,14 @@
     <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macOS&logoColor=white">
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
+<br><br>
+<div align="center">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/83322477">
+</div>
+
 <br><br><br>
 <div>
+    <h3>📚 Certification 📚</h3>
     <h3>🔭 <a href="https://kj2063.github.io/about/">About Me</a></h3>
 </div>
 <!--
