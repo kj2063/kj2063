@@ -24,7 +24,6 @@
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
 </p>
@@ -34,7 +33,6 @@
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&amp;logo=jquery&amp;logoColor=white">
     <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black">
     <img alt="JSP" src="https://img.shields.io/badge/JSP-E76F00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white">
-    <img alt="FreeMarker" src="https://img.shields.io/badge/FreeMarker-326CAC?style=for-the-badge">
     <img alt="Nexacro" src="https://img.shields.io/badge/Nexacro-1F6FEB?style=for-the-badge">
 </p>
 
@@ -48,13 +46,6 @@
 <p align="center">
     <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge">
     <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
-    <img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-149494?style=for-the-badge">
-    <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white">
-    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&amp;logo=scipy&amp;logoColor=white">
-    <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge">
-    <img alt="Astropy" src="https://img.shields.io/badge/Astropy-693668?style=for-the-badge">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 </p>
 
 <h4 align="center">Database</h4>
