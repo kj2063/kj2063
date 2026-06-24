@@ -18,7 +18,7 @@
 
 <br><br>
 
-<h3 align="center">📚 Experienced Tech Stack 📚</h3>
+<h3 align="center">📚 Tech Stack 📚</h3>
 
 <h4 align="center">Languages</h4>
 <p align="center">
