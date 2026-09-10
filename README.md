@@ -67,8 +67,8 @@
     <br>
     <strong>Databricks Certified Data Engineer Associate</strong>
     <br><br>
-    <img alt="Engineer Information Processing [National(Korea) Technical Qualification]" src="https://img.shields.io/badge/Engineer%20Information%20Processing-005BAC?style=for-the-badge">
-    <img alt="Big Data Analysis Engineer [National(Korea) Technical Qualification]" src="https://img.shields.io/badge/Big%20Data%20Analysis%20Engineer-149494?style=for-the-badge">
+    <img alt="Engineer Information Processing" src="https://img.shields.io/badge/Engineer%20Information%20Processing-[National(Korea)%20Technical%20Qualification]-2D7FCD?style=for-the-badge&labelColor=005BAC">
+<img alt="Big Data Analysis Engineer" src="https://img.shields.io/badge/Big%20Data%20Analysis%20Engineer-[National(Korea)%20Technical%20Qualification]-3CB5B5?style=for-the-badge&labelColor=149494">
     <br>
     <strong>정보처리기사 · 빅데이터분석기사</strong>
 </div>
